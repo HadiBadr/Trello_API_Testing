@@ -1,1 +1,0 @@
-{"uuid":"53b177a8-22dc-4275-898c-034b93ae0a7f","name":"Tests.CardTests.setup","children":["8f3a52d5-486f-4333-8d52-3fe4e1e71ba3"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721001524693,"stop":1721001524694}],"afters":[],"start":1721001524693,"stop":1721001524694}

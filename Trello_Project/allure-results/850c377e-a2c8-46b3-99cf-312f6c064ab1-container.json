@@ -1,1 +1,0 @@
-{"uuid":"850c377e-a2c8-46b3-99cf-312f6c064ab1","name":"Tests.NegativeTests.setup","children":["0bfcd46d-fff6-49f4-aee5-0abaf88c468d"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721001528292,"stop":1721001528294}],"afters":[],"start":1721001528292,"stop":1721001528294}
