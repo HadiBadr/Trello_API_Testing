@@ -1,0 +1,1 @@
+{"uuid":"67ef5230-d5eb-4a5f-9845-5a186c38ae85","name":"Tests.BoardTests.setup","children":["7fe04794-ae0e-47e3-b863-4b0bb92f626b"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721052648411,"stop":1721052648412}],"afters":[],"start":1721052648411,"stop":1721052648412}
