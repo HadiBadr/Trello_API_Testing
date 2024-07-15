@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="My Test Suite">
+    <test name="Trello Tests">
+        <classes>
+            <class name="Tests.BoardTests" />
+            <class name="Tests.CardTests" />
+            <class name="Tests.ListTests" />
+            <class name="Tests.NegativeTests" />
+            <class name="Tests.FlowTests" />
+        </classes>
+    </test>
+</suite>

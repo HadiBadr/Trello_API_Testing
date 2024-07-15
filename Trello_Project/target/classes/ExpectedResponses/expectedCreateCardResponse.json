@@ -1,0 +1,21 @@
+{
+  "id" : "669465fd30bd7db6328827f2",
+  "closed" : false,
+  "dateLastActivity" : "2024-07-14T23:57:49.953Z",
+  "desc" : "Description for test card 2",
+  "due" : null,
+  "dueReminder" : null,
+  "email" : null,
+  "idBoard" : "6690848c2c2723bfbc9f6d74",
+  "idList" : "6690a1208aa6abaaedf3c161",
+  "idShort" : 151,
+  "idAttachmentCover" : null,
+  "name" : "Test Card 2",
+  "pos" : 32768,
+  "shortLink" : "YJW1Os5A",
+  "shortUrl" : "https://trello.com/c/YJW1Os5A",
+  "start" : null,
+  "subscribed" : false,
+  "url" : "https://trello.com/c/YJW1Os5A/151-test-card-2",
+  "template" : false
+}
